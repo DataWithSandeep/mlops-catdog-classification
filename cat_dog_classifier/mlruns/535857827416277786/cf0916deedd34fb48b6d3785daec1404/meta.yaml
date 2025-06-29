@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/sandeep/Personal_Bit/Expelo/cat_dog_classifier/training/../mlruns/535857827416277786/cf0916deedd34fb48b6d3785daec1404/artifacts
+end_time: 1751113325953
+entry_point_name: ''
+experiment_id: '535857827416277786'
+lifecycle_stage: active
+run_id: cf0916deedd34fb48b6d3785daec1404
+run_name: resilient-rook-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751112138436
+status: 3
+tags: []
+user_id: Sandeep.C

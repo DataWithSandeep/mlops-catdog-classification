@@ -1,0 +1,10 @@
+artifact_location: file:///C:/sandeep/Personal_Bit/Expelo/cat_dog_classifier/training/../mlruns/535857827416277786/models/m-8ca4dc886648412ba80946ed2aadb25c/artifacts
+creation_timestamp: 1751112139086
+experiment_id: '535857827416277786'
+last_updated_timestamp: 1751113324871
+model_id: m-8ca4dc886648412ba80946ed2aadb25c
+model_type: null
+name: model
+source_run_id: cf0916deedd34fb48b6d3785daec1404
+status: 2
+status_message: null
