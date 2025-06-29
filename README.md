@@ -38,8 +38,7 @@ It uses **Transfer Learning** with TensorFlow, exposes a prediction API with **F
         ├── Dockerfile               # For containerization
         ├── .dockerignore            # Ignore data & logs
         ├── mlruns/ (local)          # MLflow experiment tracking logs
-        └── README.md
-
+    README.md
 
 
 ---
